@@ -41,7 +41,7 @@ UCI HAR Dataset/features_info.txt
 UCI HAR Dataset/README.txt
 ```
 
-
+# Variables in the data set
 
 ```
 tBodyAcc-mean()-X
