@@ -1,6 +1,7 @@
 
 # Data set Files
 
+...
 UCI HAR Dataset/activity_labels.txt
 UCI HAR Dataset/features.txt
 UCI HAR Dataset/features_info.txt
@@ -30,3 +31,4 @@ UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt
 UCI HAR Dataset/train/subject_train.txt
 UCI HAR Dataset/train/X_train.txt
 UCI HAR Dataset/train/y_train.txt
+...
