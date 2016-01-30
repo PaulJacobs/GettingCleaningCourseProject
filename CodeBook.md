@@ -1,8 +1,6 @@
 
 # Files in the original data set
 
-The original data set contains these files:
-
 ```
 UCI HAR Dataset/activity_labels.txt
 UCI HAR Dataset/features.txt
@@ -34,8 +32,9 @@ UCI HAR Dataset/train/subject_train.txt
 UCI HAR Dataset/train/X_train.txt
 UCI HAR Dataset/train/y_train.txt
 ```
+# Documentation Files
 
-
+Files in the dataset that have information on the features of the dataset
 
 ```
 UCI HAR Dataset/features_info.txt
